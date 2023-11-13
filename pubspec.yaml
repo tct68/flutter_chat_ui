@@ -11,7 +11,6 @@ environment:
   flutter: '>=3.0.0'
 
 dependencies:
-  diffutil_dart: ^3.0.0
   equatable: ^2.0.5
   flutter:
     sdk: flutter
@@ -31,6 +30,7 @@ dependencies:
   flutter_parsed_text:
     git:
       url: https://github.com/tct68/flutter_parsed_text.git
+  diffutil_dart: ^4.0.0
 
 dev_dependencies:
   dart_code_metrics: ^5.7.5
